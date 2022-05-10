@@ -1,0 +1,18 @@
+{
+	"nodes": [
+		{
+			"name": "first",
+			"coordinates": [0, 300]
+		},
+		{
+			"name": "second",
+			"coordinates": [0, -300]
+		}
+	],
+	"edges": [
+		{
+			"origin": "first",
+			"destination": "second"
+		}
+	]
+}
